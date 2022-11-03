@@ -1,0 +1,12 @@
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '3' WHERE (`ID` = '1');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '4' WHERE (`ID` = '2');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '5' WHERE (`ID` = '3');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '1' WHERE (`ID` = '4');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '11' WHERE (`ID` = '5');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '8' WHERE (`ID` = '6');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '7' WHERE (`ID` = '7');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '9' WHERE (`ID` = '8');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '8' WHERE (`ID` = '9');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '6' WHERE (`ID` = '10');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '10' WHERE (`ID` = '11');
+UPDATE `Tennis_Competition`.`Players` SET `Coach ID` = '2' WHERE (`ID` = '12');

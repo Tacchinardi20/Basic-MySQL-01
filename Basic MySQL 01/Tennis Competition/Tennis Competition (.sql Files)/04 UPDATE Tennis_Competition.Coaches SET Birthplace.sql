@@ -1,0 +1,11 @@
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Alicante' WHERE (`ID` = '1');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Lisbon' WHERE (`ID` = '2');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Oakland, California' WHERE (`ID` = '3');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Buenos Aires' WHERE (`ID` = '4');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Rolante' WHERE (`ID` = '5');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Santa Monica, California' WHERE (`ID` = '6');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Watford' WHERE (`ID` = '7');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Kramfors Municipality' WHERE (`ID` = '8');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Legnica' WHERE (`ID` = '9');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Shreveport, Louisiana' WHERE (`ID` = '10');
+UPDATE `Tennis_Competition`.`Coaches` SET `Birthplace` = 'Wagga Wagga' WHERE (`ID` = '11');

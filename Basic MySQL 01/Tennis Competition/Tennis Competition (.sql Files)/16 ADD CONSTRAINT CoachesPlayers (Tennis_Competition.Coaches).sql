@@ -1,0 +1,5 @@
+ALTER TABLE Tennis_Competition.Coaches
+ADD CONSTRAINT CoachesPlayers FOREIGN KEY (`Player ID`)
+REFERENCES Players (ID)
+ON UPDATE CASCADE
+ON DELETE SET NULL
